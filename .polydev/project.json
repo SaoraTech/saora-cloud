@@ -1,0 +1,14 @@
+{
+  "name": "saora-cloud",
+  "templateId": "nodejs_nestjs",
+  "useTypeScript": true,
+  "devServerCommand": "npm run start:dev",
+  "scripts": {
+    "dev": "npm run start:dev"
+  },
+  "agent": {
+    "profile": "light",
+    "planApproval": true,
+    "askUser": true
+  }
+}
